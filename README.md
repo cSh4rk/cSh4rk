@@ -6,28 +6,41 @@ I focus on vulnerability research, penetration testing, and improving defenses.
 ---
 
 ## 🚀 Areas of Focus
-- 🛡️ Offensive Security & Red Teaming  
-- 🌐 Web Application Security  
-- 🖥️ System & Network Pentesting  
-- 🔍 Security Research & Exploit Development  
+
+```bash
+$ cat areas_of_focus.txt
+- Offensive Security & Red Teaming
+- Web Application Security
+- System & Network Pentesting
+- Security Research & Exploit Development
+```
+
+---
+
+## 🏷️ Achievements & Badges
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-h4x0r-4CAF50?logo=tryhackme)](https://tryhackme.com/p/nima)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-rooted-1B5E20?logo=hackthebox)](https://app.hackthebox.com/profile/768488)
+[![GitHub](https://img.shields.io/badge/GitHub-cSh4rk-black?logo=github)](https://github.com/cSh4rk)
 
 ---
 
 ## 📡 Contact & Professional Channels
 
-**🌐 Website:** [nima.ninja](https://nima.ninja)  
-**✉️ Email:** [nima@nima.ninja](mailto:nima@nima.ninja) / [csh4rk0x00@protonmail.com](mailto:csh4rk0x00@protonmail.com)  
-**💻 GitHub:** [cSh4rk](https://github.com/cSh4rk)  
-**🎯 TryHackMe:** [nima](https://tryhackme.com/p/nima)  
-**🎯 HackTheBox:** [xSh4rk](https://app.hackthebox.com/profile/768488)  
-**🎯 Infosec.Exchange:** [@cSh4rk](https://infosec.exchange/@cSh4rk)  
-
-**🐦 X (Twitter):** [@cSh4rk](https://x.com/cSh4rk)  
-**🔗 Linktree:** [cSh4rk](https://linktr.ee/csh4rk)  
-**💬 Discord:** `csh4rk` — Server: [Sharks](https://discord.com/invite/4btHxXWwgQ)  
-**🕵️ Whispa (anonymous message):** [@nima](https://whispa.sh/@nima)  
-
-**🔑 PGP Key:** [Download](https://nima.ninja/assets/CEE9A66A2F5C6187E4242B0425669795B037FEF2.asc.txt)
+```bash
+$ cat contacts.txt
+Website           : https://nima.ninja
+Email             : nima@nima.ninja / csh4rk0x00@protonmail.com
+GitHub            : https://github.com/cSh4rk
+TryHackMe         : https://tryhackme.com/p/nima
+HackTheBox        : https://app.hackthebox.com/profile/768488
+Infosec.Exchange  : https://infosec.exchange/@cSh4rk
+X / Twitter       : https://x.com/cSh4rk
+Linktree          : https://linktr.ee/csh4rk
+Discord           : csh4rk — Server: https://discord.com/invite/4btHxXWwgQ
+Whispa (anon)     : @nima
+PGP Key           : https://nima.ninja/assets/CEE9A66A2F5C6187E4242B0425669795B037FEF2.asc.txt
+```
 
 ---
 
