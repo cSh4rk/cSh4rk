@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Nima 👋
 
-<!--
-**cSh4rk/cSh4rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity professional specializing in **offensive security**, **red teaming**, and **web security**.  
+I focus on vulnerability research, penetration testing, and improving defenses.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Areas of Focus
+- Offensive Security & Red Teaming  
+- Web Application Security  
+- System & Network Pentesting  
+- Security Research & Exploit Development  
+
+---
+
+## 📡 Contact & Professional Channels
+- Website: [nima.ninja](https://nima.ninja)  
+- Email: [nima@nima.ninja](mailto:nima@nima.ninja) / [csh4rk0x00@protonmail.com](mailto:csh4rk0x00@protonmail.com)  
+- X (Twitter): [@cSh4rk](https://x.com/cSh4rk)  
+- GitHub: [cSh4rk](https://github.com/cSh4rk)  
+- Discord: `csh4rk` — Server: `Sharks`  
+- Linktree: `@cSh4rk`  
+- Whispa (anonymous): `@nima`  
+- TryHackMe: `nima`  
+- HackTheBox: `xSh4rk`  
+- Infosec.Exchange: `cSh4rk`  
+- PGP Key: https://nima.ninja/assets/CEE9A66A2F5C6187E4242B0425669795B037FEF2.asc.txt
+
+---
+
+> Professional enquiries only — I do not share personal / lifestyle information on this profile.
