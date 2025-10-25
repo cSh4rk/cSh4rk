@@ -56,5 +56,3 @@ PGP Key           : https://nima.ninja/assets/CEE9A66A2F5C6187E4242B0425669795B0
 ---
 
 > ⚠️ For professional and technical enquiries only.
-
-
