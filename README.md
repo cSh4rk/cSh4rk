@@ -39,7 +39,7 @@ Description : "Diaries of a Modern Ninja ⚔ — personal website featuring cybe
 ## 📡 Contact & Professional Channels
 
 ```bash
-$ cat contacts.txt
+$ cat contact_info.txt
 Website           : https://nima.ninja
 Email             : nima@nima.ninja / csh4rk0x00@protonmail.com
 GitHub            : https://github.com/cSh4rk
