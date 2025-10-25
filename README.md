@@ -21,7 +21,7 @@ $ cat areas_of_focus.txt
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-h4x0r-4CAF50?logo=tryhackme)](https://tryhackme.com/p/nima)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-rooted-1B5E20?logo=hackthebox)](https://app.hackthebox.com/profile/768488)
-[![GitHub](https://img.shields.io/badge/GitHub-cSh4rk-black?logo=github)](https://github.com/cSh4rk)
+[![GitHub](https://img.shields.io/badge/GitHub-cSh4rk-black?logo=github)](https://github.com/cSh4rk/cSh4rk.github.io)
 
 ---
 
