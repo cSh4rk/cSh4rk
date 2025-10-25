@@ -1,6 +1,7 @@
-# Cybersecurity Professional
+# $ whoami
 
-I specialize in **offensive security**, **red teaming**, and **web security**, focusing on vulnerability research, penetration testing, and improving defenses.
+I'm a cybersecurity professional specializing in **offensive security**, **red teaming**, and **web security**.
+I focus on vulnerability research, penetration testing, and improving defenses.
 
 ---
 
