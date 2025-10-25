@@ -18,12 +18,12 @@ I focus on vulnerability research, penetration testing, and improving defenses.
 - Email: [nima@nima.ninja](mailto:nima@nima.ninja) / [csh4rk0x00@protonmail.com](mailto:csh4rk0x00@protonmail.com)  
 - X (Twitter): [@cSh4rk](https://x.com/cSh4rk)  
 - GitHub: [cSh4rk](https://github.com/cSh4rk)  
-- Discord: `csh4rk` — Server: `Sharks`  
-- Linktree: `@cSh4rk`  
-- Whispa (anonymous): `@nima`  
-- TryHackMe: `nima`  
-- HackTheBox: `xSh4rk`  
-- Infosec.Exchange: `cSh4rk`  
+- Discord: `csh4rk` — Server: [Sharks](https://discord.com/invite/4btHxXWwgQ)  
+- Linktree: [cSh4rk](https://linktr.ee/csh4rk)  
+- Whispa (anonymous message): [@nima](https://whispa.sh/@nima)  
+- TryHackMe: [nima](https://tryhackme.com/p/nima)
+- HackTheBox: [xSh4rk](https://app.hackthebox.com/profile/768488)  
+- Infosec.Exchange: [@cSh4rk](https://infosec.exchange/@cSh4rk)  
 - PGP Key: https://nima.ninja/assets/CEE9A66A2F5C6187E4242B0425669795B037FEF2.asc.txt
 
 ---
