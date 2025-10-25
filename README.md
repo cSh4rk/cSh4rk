@@ -27,8 +27,12 @@ $ cat areas_of_focus.txt
 
 ## 💻 Projects
 
-[![Website Repo](https://img.shields.io/badge/GitHub-Website%20Repo-black?logo=github)](https://github.com/cSh4rk/cSh4rk.github.io)  
-**Diaries of a Modern Ninja** — Nima’s personal website featuring cybersecurity, red teaming, tooling, tutorials, and personal notes. Practical guides, walkthroughs, and resources for curious minds.
+[![GitHub Website](https://img.shields.io/badge/GitHub-Website%20Repo-black?logo=github)](https://github.com/cSh4rk/cSh4rk.github.io)
+
+```bash
+$ cat projects.txt
+Description : "Diaries of a Modern Ninja — personal website covering cybersecurity, red teaming, tooling, tutorials, and notes for curious minds."
+```
 
 ---
 
@@ -52,3 +56,5 @@ PGP Key           : https://nima.ninja/assets/CEE9A66A2F5C6187E4242B0425669795B0
 ---
 
 > ⚠️ Professional enquiries only — personal or lifestyle information is not shared on this profile.
+
+
