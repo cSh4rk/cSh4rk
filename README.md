@@ -1,7 +1,10 @@
-## $ whoami
+# About
 
+```bash
+$ whoami
 I'm a cybersecurity professional specializing in **offensive security**, **red teaming**, and **web security**.
 I focus on vulnerability research, penetration testing, and improving defenses.
+```
 
 ---
 
