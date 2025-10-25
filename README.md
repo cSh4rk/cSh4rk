@@ -31,7 +31,7 @@ $ cat areas_of_focus.txt
 
 ```bash
 $ cat projects.txt
-Description : "Diaries of a Modern Ninja — personal website covering cybersecurity, red teaming, tooling, tutorials, and notes for curious minds."
+Description : "Diaries of a Modern Ninja ⚔ — personal website + open-source CyberShark theme"."
 ```
 
 ---
