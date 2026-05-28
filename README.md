@@ -49,7 +49,7 @@ Infosec.Exchange  : https://infosec.exchange/@cSh4rk
 X / Twitter       : https://x.com/cSh4rk
 Linktree          : https://linktr.ee/csh4rk
 Discord           : csh4rk — Server: https://discord.com/invite/4btHxXWwgQ
-Whispa (anon)     : https://whispa.sh/@nima
+Whispa (anon)     : https://whispa.sh/@csh4rk
 PGP Key           : https://nima.ninja/assets/CEE9A66A2F5C6187E4242B0425669795B037FEF2.asc.txt
 ```
 
