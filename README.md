@@ -43,8 +43,8 @@ $ cat contact_info.txt
 Website           : https://nima.ninja
 Email             : nima@nima.ninja / csh4rk0x00@protonmail.com
 GitHub            : https://github.com/cSh4rk
-Infosec.Exchange  : https://infosec.exchange/@cSh4rk
 X / Twitter       : https://x.com/cSh4rk
+Infosec.Exchange  : https://infosec.exchange/@cSh4rk
 Linktree          : https://linktr.ee/csh4rk
 Discord           : csh4rk — Server: https://discord.com/invite/4btHxXWwgQ
 Whispa (anon)     : https://whispa.sh/@csh4rk
