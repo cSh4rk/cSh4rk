@@ -43,8 +43,6 @@ $ cat contact_info.txt
 Website           : https://nima.ninja
 Email             : nima@nima.ninja / csh4rk0x00@protonmail.com
 GitHub            : https://github.com/cSh4rk
-TryHackMe         : https://tryhackme.com/p/nima
-HackTheBox        : https://app.hackthebox.com/profile/768488
 Infosec.Exchange  : https://infosec.exchange/@cSh4rk
 X / Twitter       : https://x.com/cSh4rk
 Linktree          : https://linktr.ee/csh4rk
