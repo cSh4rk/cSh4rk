@@ -40,16 +40,7 @@ Description : "Diaries of a Modern Ninja ⚔ — personal website featuring cybe
 
 ```bash
 $ cat contact_info.txt
-Website           : https://nima.ninja
-Email             : nima@nima.ninja / csh4rk0x00@protonmail.com
-GitHub            : https://github.com/cSh4rk
-X / Twitter       : https://x.com/cSh4rk
-Infosec.Exchange  : https://infosec.exchange/@cSh4rk
-Linktree          : https://linktr.ee/csh4rk
-Linkme            : https://link.me/csh4rk
-Discord           : csh4rk — Server: https://discord.com/invite/4btHxXWwgQ
-Whispa (anon)     : https://whispa.sh/@csh4rk
-PGP Key           : https://nima.ninja/assets/CEE9A66A2F5C6187E4242B0425669795B037FEF2.asc.txt
+https://nima.ninja/contact
 ```
 
 ---
