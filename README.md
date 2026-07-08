@@ -46,5 +46,3 @@ https://nima.ninja/contact
 ---
 
 > ⚠️ For professional and technical enquiries only.
-
-> ⚠️ For the fastest response, please reach me via my ProtonMail email, as I may not check messages frequently.
